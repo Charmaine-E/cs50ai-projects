@@ -63,7 +63,7 @@ def main():
         ("Puzzle 0", knowledge0),
         ("Puzzle 1", knowledge1),
         ("Puzzle 2", knowledge2),
-        
+        ("Puzzle 3", knowledge3)
     ]
     for puzzle, knowledge in puzzles:
         print(puzzle)
@@ -76,4 +76,4 @@ def main():
 
 
 if __name__ == "__main__":
-   
+    main()
